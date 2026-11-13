@@ -16,6 +16,15 @@
         "date": "2026-10-25"
     },
     {
+        "name": "git",
+        "title": "用 Git 管理你的程式碼",
+        "sub": "電資社進階班 第三堂",
+        "tags": [
+            "電資社進階班"
+        ],
+        "date": "2026-11-13"
+    },
+    {
         "name": "github-page",
         "title": "把網站放上網路：GitHub Pages",
         "sub": "",
